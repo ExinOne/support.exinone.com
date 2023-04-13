@@ -4,8 +4,12 @@
     "description": "The label for version current"
   },
   "sidebar.docs.category.Mainnet": {
-    "message": "主网",
+    "message": "主网!",
     "description": "The label for category Mainnet in sidebar docs"
+  },
+  "sidebar.docs.category.Functions": {
+    "message": "功能",
+    "description": "The label for category haha in sidebar docs"
   },
   "sidebar.docs.category.Concepts": {
     "message": "概念",
@@ -15,13 +19,13 @@
     "message": "MTG",
     "description": "The label for category MTG in sidebar docs"
   },
-  "sidebar.docs.category.Tutorials": {
-    "message": "教程",
+  "sidebar.docs.category.AboutUs": {
+    "message": "关于我们",
     "description": "The label for category Tutorials in sidebar docs"
   },
-  "sidebar.docs.category.dApp": {
-    "message": "dApp",
-    "description": "The label for category dApp in sidebar docs"
+  "sidebar.docs.category.User-Agreement": {
+    "message": "用户协议",
+    "description": "The label for category User-Agreement in sidebar docs"
   },
   "sidebar.docs.category.Getting Started": {
     "message": "立即上手",
@@ -31,7 +35,7 @@
     "message": "指南",
     "description": "The label for category Guide in sidebar docs"
   },
-  "sidebar.docs.category.Design Guide": {
+  "sidebar.docs.category.Contact-us": {
     "message": "设计指南",
     "description": "The label for category Design Guide in sidebar docs"
   },

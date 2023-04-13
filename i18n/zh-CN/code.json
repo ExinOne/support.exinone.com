@@ -196,22 +196,22 @@
     "description": "The ARIA label and placeholder for search button"
   },
   "features.secure": {
-    "message": "安全"
+    "message": "行情"
   },
   "features.secure.text": {
-    "message": " - 所有资产都安全的存储在 PoS-BFT-DAG 分布式网络中"
+    "message": " - 支持查看加密货币市场行情"
   },
   "features.fast": {
-    "message": "高性能"
+    "message": "交易"
   },
   "features.fast.text": {
-    "message": " - 超过 1,000,000 TPS 的容量，数据最终确认小于 1 秒"
+    "message": " - 聚合多家交易所，提供最佳交易深度，支持闪兑，挂单，定投"
   },
   "features.powerful": {
-    "message": "强大"
+    "message": "理财"
   },
   "features.powerful.text": {
-    "message": " - 支持 40 条公链，例如 BTC，ETH，EOS，DASH，ZEC，XMR 等。"
+    "message": " - 支持 USDT、XIN、ZEN 等"
   },
   "features.free": {
     "message": "免费"

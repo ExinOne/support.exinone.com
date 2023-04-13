@@ -21,10 +21,10 @@
   },
   "link.item.label.Dashboard": {
     "message": "Dashboard",
-    "description": "Mixin developers dashboard"
+    "description": "ExinOne developers dashboard"
   },
   "copyright": {
-    "message": "Copyright © 2022 Mixin",
+    "message": "Copyright © 2023 ExinOne",
     "description": "The footer copyright"
   }
 }

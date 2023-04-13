@@ -47,7 +47,6 @@ module.exports = {
       },
       items: [
         {to: '/docs/introduction', label: 'Docs', position: 'left'},
-        {to: '/blog', label: 'News', position: 'left'},
         {
           href: 'https://developers.exinone.com',
           label: 'Developers',

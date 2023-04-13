@@ -3,63 +3,91 @@ title: Introduction
 description: Mixin Network, a free, lightning fast and decentralized network for transferring digital assets.
 ---
 
-Mixin Network is a open network, it's open to the developers at both Kernel (aka, the Mainnet) and Mixin API levels.
+Welcome to ExinOne 👏
 
-According to the business needs and requirements, developers can choose the appropriate way to develop their dApps, chains, and any applications based on Mixin Network.
+ExinOne is a "one-stop digital asset and financial services platform" that mainly offers you services in the following five areas:
 
-## Dive into the Kernel
+- Market: You can view cryptocurrency market information and set price alerts through ExinOne;
+- Trading: ExinOne aggregates exchanges like Binance, OKX, Bybit, Gateio, BigONE, and MixSwap, allowing you to trade tokens from these exchanges without registration or KYC. There are currently three trading modes:
+  - Instant Swap: You can trade any coin with any other coin, and ExinOne will automatically choose the best trading path for you;
+  - Spot Trading: Connect to exchanges for trading, with the option to choose market price or limit price (placing orders);
+  - Fixed Investment: You can make single-coin/multi-coin fixed investments through ExinOne;
+  - In the future, ExinOne will offer more strategic trading features, so stay tuned.
+- Wealth Management: ExinOne's "Current Treasure" feature provides wealth management services for some assets, currently supporting:
+  - USDT, pUSD, XIN, ZEN, EOS
+- Lending: ExinOne offers collateralized lending services, allowing you to pledge your assets and borrow USDT.
+- Wallet: ExinOne integrates the functionality of the Mixin wallet, enabling you to query and operate your Mixin wallet assets within ExinOne.
 
-If you want to build something with the kernel, or create a fork of Mixin Network with some modifications you like, you can read the [source code of Mixin Mainnet](https://github.com/MixinNetwork/mixin).
+## User Guide 
 
-There are some tutorials that useful:
 
-- [Deploying full node](mainnet/guide/full-node-join) - run mixin node in local machine.
-- [Sync full node](mainnet/guide/sync-full-node) - run mixin node in sync mode, sync all snapshots from the Kernel.
 
-## Create Mixin Applications
+## Deposit 
 
-Mixin Applications are applications that use the Mixin Network. It could be a website, an App, a messenger bot, or any other form of application that uses Mixin API or interacts with Kernel.
+**Introduction to concepts** 
 
-:::info
-Mixin Application uses the Mixin API, a API set that provides the interface for the Mixin Mainnet, simplifys the development of Mixin. Please read [Mixin API Reference](api/guide) for more details.
-:::
+USDT: A stablecoin in the blockchain, which can be used to trade any cryptocurrency 
 
-### Messenger Bot
+Deposit: Obtain USDT
 
-Most Mixin Applications have an interface called "Messenger bot"(shortened to "bot").
+**Two ways to deposit** 
 
-The bot is very similar to Telegram bot. It’s a program running on a server and interact with human being users with Mixin API.
+Method 1: Fiat currency deposit 
 
-Usually, people interacts with bots in a webview, or just chat with bots. Because of that, the bot should host a web service or respond to incoming messages to get its work done.
+Fiat currency deposit refers to using Fiat to purchase USDT. 
 
-Here is [a tutorial](dapp/getting-started/create-dapp) that shows you how to build a bot with the Mixin API:
+Open ExinOne, Click "Trade" - "Fiat"
 
-### Integrate with Mixin
+![image-20230413132110188](./images/image-20230413132110188.png)
 
-Some Mixin Applications don't need the bot interface. They could be a website or a standalone mobile App.
 
-A common scene is that your business runs well, but you want to make it cooler with cryptocurrency. So you need to integrate an existed system with Mixin.
 
-The first thing you need to do is same as above, creating a bot. And then, it's time to think about the way to integrate with Mixin.
 
-For example, if you have a CMS for multiple users, you want to put a donate button at the bottom of each post and receive money from audiences; you need to learn to create accounts for each author, manage accounts' keystores, sync and handle snapshots for each author in the CMS to transfer money to them.
 
-Please read [this document](dapp/mixin-applications) guide for more details.
+Method 2: On-chain deposit
 
-## Features
+If you have cryptocurrencies in other exchanges or on-chain wallets, you can deposit the corresponding cryptocurrencies into Mixin for trading. If available on an exchange, it is recommended to choose the USDT-Polygon version or USDT-Bep20 version, as their withdrawal fees are relatively lower. Within Mixin, do not use USDT-ERC20 or ETH addresses for depositing, as different deposit addresses may cause your deposited coins to not arrive. On the USDT deposit page, please select the correct version of USDT for depositing, as shown below:
 
-- Secure - All assets are stored in PoS-BFT-DAG distributed network
-- Fast - More than 1,000,000 TPS capacity with a final confirmation time of under 1 second.
-- Powerful - Supported 32 blockchians, such as BTC, ETH, XMR.
-- Free - No transaction fee.
-- Privacy - End to end encrypted messages.
+![image-20230413131509306](./images/image-20230413131509306.png)
 
-## Staying informed
 
-- [Github](https://github.com/MixinNetwork)
-- [Twitter](https://twitter.com/Mixin_Network)
-- [Discussions](https://github.com/MixinNetwork/mixin/discussions)
 
-## Something missing?
 
-If you find issues with the documentation or have suggestions on how to improve the documentation or the project in general, please [file an issue](https://github.com/MixinNetwork/developers.mixin.one/issues) for us, or send a tweet mentioning the @[Mixin_Network](https://twitter.com/Mixin_Network) Twitter account.
+
+
+
+For first-time deposits, try a small amount first. Once you confirm the deposit has arrived, proceed with larger amounts to avoid unnecessary losses due to incorrect addresses.
+
+#### Feature Introduction 
+
+Market ExinOne's "Home" page displays market information for the supported tokens, with price data coming from the connected exchanges. Prices can be calculated in two ways, adjustable through the "Pricing Method" within the user avatar on the top left corner of the ExinOne homepage. The "Market" page displays the top 300 tokens on Coingecko and tokens supported by ExinOne for trading. You can bookmark the tokens you are interested in, set price alerts, and if the relevant token is tradable, you can choose instant swap, spot trading, place orders, or fixed investment. Trading ExinOne aggregates Binance, OKX, Bybit, Gateio, BigONE, and MixSwap exchanges, allowing you to trade tokens from these exchanges without registration or KYC, ensuring privacy and security. ExinOne offers three trading modes: Instant Swap, Spot Trading, and Placing Orders.
+
+**Swap**
+
+You can use the "Instant Swap" feature to exchange any coin for any other coin, and ExinOne will automatically choose the appropriate trading path for you. If the Instant Swap feature does not have the token you want to trade, please leave a message to the ExinOne bot, and we will evaluate and inform you if we can support it.
+
+**Spot Trading & Limit Orders**
+
+Spot trading uses the depth of the connected exchanges, and you can perform market price and limit price trading through the Spot Trading page.
+
+**Auto Invest Plan**
+
+ExinOne supports creating your investment portfolio for periodic fixed investments. Deposit USDT in advance into the "Worry-Free Investment Exclusive Account" and "Current Treasure" to make fixed investments according to the rules when the balance is sufficient.
+
+**Loans**
+
+ExinOne offers collateralized borrowing services. Pledge assets in the trading account to obtain a borrowing limit, and you can borrow funds. The borrowing period is 365 days, and you can repay at any time. Please avoid overdue payments, control the collateralization rate, and avoid liquidation risks.
+
+**Savings**
+
+ExinOne provides wealth management services for specific tokens.
+
+#### Function Module Introduction 
+
+Trading Account: The trading account is an account provided by ExinOne for Mixin users to directly trade tokens from various exchanges within Mixin.
+
+Current Treasure: This feature offers token current wealth management services. USDT and pUSD deposited in Current Treasure can also be used for fixed investment payments.
+
+Delegation Account: The tokens you place as orders will be held in this account. Once the order is completed (including cancellation), the assets you have entrusted will be returned to your payment account.
+
+Developer Documentation: ExinOne provides developer documentation, which can be used to integrate and utilize the services provided by ExinOne.

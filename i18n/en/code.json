@@ -1,12 +1,12 @@
 {
   "features.secure": {
-    "message": "Secure"
+    "message": "Markets"
   },
   "features.secure.text": {
-    "message": " - All assets are stored in PoS-BFT-DAG distributed network"
+    "message": " - Support for viewing cryptocurrency market quotes"
   },
   "features.fast": {
-    "message": "Fast"
+    "message": "Aggregate Trading"
   },
   "features.fast.text": {
     "message": " - More than 1,000,000 TPS capacity with a final confirmation time of under 1 second."

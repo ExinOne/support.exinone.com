@@ -1,64 +1,121 @@
 ---
-title: 简介
+title: ExinOne 简介
 description: Mixin Network，一个免费、闪电般快速和去中心化的加密资产传输网络。
 ---
 
-Mixin Network 是一个开放的去中心化网络，它在内核（也称为“主网”）和 Mixin API 两个层面对开发者开放。
+欢迎使用 ExinOne 👏
 
-开发者可以根据业务需求和要求，选择合适的方式来开发自己的 dApp、链以及任何基于 Mixin Network 的应用。
+ExinOne 是“一站式数字资产与金融服务平台”，主要为您提供以下五个方向的服务：
 
-## 深入内核
+- 行情：您可以通过 ExinOne 查看加密货币的市场行情相关信息，设置价格提醒；
+- 交易：ExinOne 聚合了 Binance、OKX、Bybit、Gateio、BigONE、MixSwap 等交易所，您无需注册无需进行 KYC 即可交易上述交易所的代币，目前有三种交易模式：
+  - 闪兑：您可以使用任意币交易任意币，ExinOne 将自动为您选择最佳交易路径；
+  - 币币：连接交易所进行交易，可以选择市价或者限价（挂单）成交；
+  - 定投：您可以通过 ExinOne 进行单币/多币定投 
+  - 未来 ExinOne 还将提供更多策略交易功能，敬请期待
+- 理财：ExinOne 的「活期宝」功能为您提供了一些资产的理财服务，目前支持的资产有：
+  - USDT、pUSD、XIN、ZEN、EOS
+- 借贷：ExinOne 提供质押借贷服务，可将自己持有的资产进行质押，借出 USDT。
+- 钱包：ExinOne 集成了 Mixin 钱包的功能，使您能在 ExinOne 内查询、操作自己 Mixin 钱包的资产。
 
-如果你想用内核构建一些东西，或者通过你喜欢的一些修改创建一个 Mixin Network 的分支，你可以阅读 Mixin Mainnet 的[源代码](https://github.com/MixinNetwork/mixin)。
+## 使用指引
 
-有一些有用的教程：
+### 入金
 
-- [部署全节点](mainnet/guide/full-node-join) - 在 lcoal 机器上运行 mixin 节点。
-- [同步全节点](mainnet/guide/sync-full-node) - 以同步模式运行混合节点，同步内核中的所有快照。
+**概念介绍**
 
-## 创建 Mixin 应用程序
+USDT：是区块链里的稳定币，可以用以交易任何加密货币
 
-Mixin 应用程序是使用 Mixin Network 的应用程序。 它可以是一个网站、一个应用程序、一个信使机器人或任何其他形式的使用 Mixin API 或与主网交互的应用程序。
+入金：获得 USDT
 
-:::info
-Mixin 应用程序使用 Mixin API，这是一个为 Mixin 主网提供接口的 API 集，简化了 Mixin 的开发。 更多细节请阅读[Mixin API 参考](api/guide)。
-:::
+**入金的两种方式**
 
-### Messenger 机器人（Bot）
+方式一：法币入金
 
-大多数 Mixin 应用程序都有一个名为“Messenger 机器人”（缩写为“bot”）的界面。该机器人与 Telegram 机器人非常相似。 它是一个运行在服务器上的程序，通过 Mixin API 与人类用户交互。
+法币入金是指使用人民币购买 USDT。
 
-通常，人们在 web 视图中与机器人交互，或者只是与机器人聊天。 因此，机器人应该托管 Web 服务或响应传入的消息以完成其工作。
+如果您是第一次接触加密货币，以前从来没有拥有过加密货币，可通过此方式入金。
 
-这里有一份[教程](dapp/getting-started/create-dapp)向您展示如何使用 Mixin API 构建机器人。
+您需要使用第三方 TIGA 提供的服务进行入金，TIGA 是一个去中心化的C2C（用户和用户之间）交易平台，通过多签方案保管交易资产，安全可靠。
 
-### 与 Mixin 集成
+**特别说明**：如果您使用的是「新生」App，由于它无法进行私聊，所以您无法通过「新生」App 使用 TIGA。
 
-一些 Mixin 应用程序不需要机器人界面。 它们可以是网站或独立的移动应用程序。
+请参考[教程](https://channel.mixinbots.com/dl)下载 Mixin 使用 TIGA。
 
-一个常见的场景是你的业务运行良好，但你想用加密货币让它变得更酷。 所以你需要将现有的系统与 Mixin 集成。
+方式二：链上充值
 
-你需要做的第一件事和上面一样，创建一个机器人。然后，是时候考虑如何与 Mixin 集成了。
+如果您有加密货币存在交易所或者其它链上钱包内，您可以将对应加密货币充值到 Mixin 内进行交易。
 
-例如，如果您有一个供多个用户使用的 CMS，您想在每个帖子的底部放置一个捐赠按钮，并从受众那里获得金钱； 您需要学习为每个作者创建帐户、管理帐户的密钥库、同步和处理 CMS 中每个作者的快照以向他们转移资金。
+如果存在交易所，建议选择 USDT -Polygon 版本，或者 USDT-Bep20 版本，因为它们的提现手续费相对较低，在 Mixin 内，**请勿使用 USDT-ERC20 或者 ETH 地址为其充值**，因为充值地址不同，会导致充值的币无法到账。
 
-请阅读[本文档](dapp/mixin-applications)了解更多详情。
+在 USDT 充值页面内，请正确选择 USDT 的版本进行充值，如下图：
 
-## 特性
 
-- Privacy - End to end encrypted messages.
-- 安全 - 所有资产都存储在 PoS-BFT-DAG 分布式网络中
-- 快速 - 超过 1,000,000 TPS 的容量，最终确认时间不到 1 秒。
-- 强大 - 支持 40 个区块链，例如 BTC、ETH、XMR。
-- 免费 - 无转账费。
-- 隐私 - 端到端加密消息。
 
-## 获取最新信息
+![image-20230413131509306](./images/image-20230413131509306.png)
 
-- [Github](https://github.com/MixinNetwork)
-- [Twitter](https://twitter.com/Mixin_Network)
-- [Discussions](https://github.com/MixinNetwork/mixin/discussions)
 
-## 感觉哪里不对劲？
 
-如果您发现文档有问题或对如何改进文档或项目有总体上的建议，请为我们[提交问题](https://github.com/MixinNetwork/developers.mixin.one/issues)，或发送 一条提及@[Mixin_Network](https://twitter.com/Mixin_Network) Twitter 帐户的推文。
+
+
+
+
+首次充值建议小额尝试，待确定到账后再大额充值，以避免因为填错地址造成不必要的损失。
+
+### 功能介绍
+
+#### 行情
+
+ExinOne 「首页」展示了 ExinOne 支持交易的相关代币的行情信息，价格数据来自于对接的交易所，价格可以使用两种计价方式，可通过`ExinOne 首页左上角头像内的「计价方式」`进行调整。
+
+「行情」页面则展示了 [Coingecko ](https://www.coingecko.com/)上排名前三百的代币以及 ExinOne 支持交易的相关代币信息。
+
+您可以收藏自己关注的代币，设置价格预警，如果相关代币可以交易，您可以选择闪兑、币币交易、挂单，或者定投。
+
+#### 交易
+
+ExinOne 聚合了 Binance、OKX、Bybit、Gateio、BigONE、MixSwap 等交易所，让您无需注册相关交易所，无需进行 KYC，即可在 ExinOne 上交易对应交易所的代币，具备隐私、安全的特点。
+
+ExinOne 提供三种交易模式，分别是闪兑，币币交易，挂单。
+
+**闪兑**
+
+您可以通过「闪兑」功能实现使用任意币兑换任意币的操作，ExinOne 将自动为您选择合适的交易路径。
+
+如果闪兑功能里没有您想要交易的代币，请向 ExinOne 机器人留言，我们将评估后告知您是否可以支持。
+
+**币币&挂单**
+
+币币交易使用的是交易所的交易深度， 您可以通过 币币 页面进行市价 & 限价交易。
+
+**定投**
+
+ExinOne 支持自建投资组合进行周期定投，提前将 USDT 存入「省心投专属账户」和「活期宝」，额度充足的情况下即可按照规则进行定投。
+
+#### 借币
+
+ExinOne 提供质押借币功能，将资产质押在交易账户内即可获得借币额度，即可借币，借币周期为 365 天，可以随时还款，请避免逾期，控制质押率，以免产生爆仓风险。
+
+#### 理财
+
+ExinOne 针对部分代币提供理财功能。
+
+把下面内容翻译成英语
+
+### 功能模块介绍
+
+#### 交易账户
+
+交易账户是 ExinOne 为 Mixin 用户提供的可以在 Mixin 内直接交易各交易所代币的账户，
+
+**活期宝**
+
+提供代币活期理财功能，存入活期宝的 USDT、pUSD 还可以用于定投支付
+
+**委托账户**
+
+您挂单的币将被托管在此账户内，待订单完成（包括取消），您托管的资产将退回至您的支付账户内。
+
+#### 开发者文档
+
+ExinOne 提供了[开发者文档](https://developers.exinone.com/)，可以通过开发者文档来集成使用 ExinOne 提供的服务。
