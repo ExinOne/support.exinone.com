@@ -211,19 +211,19 @@
     "message": "理财"
   },
   "features.powerful.text": {
-    "message": " - 支持 USDT、XIN、ZEN 等"
+    "message": " - 支持 USDT、XIN、ZEN 等持币生息"
   },
   "features.free": {
-    "message": "免费"
+    "message": "定投"
   },
   "features.free.text": {
-    "message": " - 没有转账手续费。"
+    "message": " - 长期主义，穿越牛熊。"
   },
   "features.privacy": {
-    "message": "隐私"
+    "message": "借币"
   },
   "features.privacy.text": {
-    "message": " - 交易使用 CryptoNote 协议，聊天使用 Signal 协议."
+    "message": " - 质押借币，方便快捷。"
   },
   "buttons.get_started": {
     "message": "马上开始"

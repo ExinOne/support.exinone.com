@@ -6,28 +6,28 @@
     "message": " - Support for viewing cryptocurrency market quotes"
   },
   "features.fast": {
-    "message": "Aggregate Trading"
+    "message": "Trading"
   },
   "features.fast.text": {
-    "message": " - More than 1,000,000 TPS capacity with a final confirmation time of under 1 second."
+    "message": " - Aggregate multiple exchanges to provide the best trading depth, support flash, pending orders, and Auto invest Plan."
   },
   "features.powerful": {
-    "message": "Powerful"
+    "message": "Savings"
   },
   "features.powerful.text": {
-    "message": " - Supported 44 blockchains, such as BTC, ETH, XMR."
+    "message": " - Support USDT, XIN, ZEN and other coins to earn interest"
   },
   "features.free": {
-    "message": "Free"
+    "message": "Auto Invest Plan"
   },
   "features.free.text": {
-    "message": " - No transaction fee."
+    "message": " - Long-termism, through bulls and bears."
   },
   "features.privacy": {
-    "message": "Privacy"
+    "message": "Loans"
   },
   "features.privacy.text": {
-    "message": " - End to end encrypted messages."
+    "message": " - Pledge to borrow coins easily and quickly."
   },
   "buttons.get_started": {
     "message": "Get Started"
