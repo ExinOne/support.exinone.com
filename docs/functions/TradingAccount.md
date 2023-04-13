@@ -31,3 +31,4 @@ A: They are stored in exchanges for users to trade at any time and will not be u
 
 Q: Why can't coins that are only credited to the Trading Acct. be withdrawn to the Mixin wallet? 
 A: The tokens purchased by users are mainly stored in exchanges, and only a few related assets are in Mixin. The cost will be very high if users withdraw funds from the exchange every time they trade. Each on-chain transfer costs about $5 and confirmation time on-chain is also very long, which will seriously affect the user's trading experience.
+

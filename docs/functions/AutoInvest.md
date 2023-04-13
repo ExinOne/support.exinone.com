@@ -2,14 +2,42 @@
 title: Auto Invest
 ---
 
+Q: What is "AutoInvesting"?
 
+A: To ensure that your investment plan can be automatically executed without manual intervention, ExinOne has introduced the "AutoInvest" function. Once activated, if the investment assets in your "AutoInvest Account" or "Savings" exceed the current investment amount, the investment will be made automatically, eliminating the need for manual processing.
 
-Dear users.
+---
 
-In order to provide you with a more convenient and better auto investment tool, the function of [SaveInvest] is upgraded again to support 2 types of automatic deduction methods.
+Q: How do I turn off "AutoInvesting"?
 
-You can transfer your assets to your [SaveInvest Proprietary Account] in advance, and when your portfolio turns on the [SaveInvest] switch, the corresponding USDT or pUSD will be deducted from your [SaveInvest Proprietary Account] by default for each investment period. When the balance in the [Saving Investment Account] is insufficient, the system will initiate the deduction of the corresponding USDT or pUSD from the [Current Account], but not from both accounts at the same time. Dedicated Account]
+A: You can turn off the "AutoInvesting" switch on the details page of the investment plan you wish to close.
 
-The platform will create an exclusive wallet based on Mixin Network for each user, and the user can choose to deposit USDT or pUSD into this wallet for automatic investment. The account will provide an access token to the account, through which the user can check the current position in the Mixin Network browser in real time, and the assets of the account will not be misappropriated except for the automatic deduction of funds by the SaveEnhancer function. The assets of the Saver Investing exclusive account can be accessed by the user at any time, and will not be locked and no gains will be made. Warm Tips.
-When there is sufficient amount of USDT or pUSD in the Saver Investing exclusive account or YuCinBao account, the deduction is successful and the fixed investment is completed and automatically executed. When the amount of USDT or pUSD in your account is insufficient, you will be required to pay manually, and the system will send a message to the user that the order has been created, please pay in time. Thank you for your support to ExinOne!
-ExinOne Team
+---
+
+Q: Which accounts support "AutoInvesting", and what is the deduction order?
+
+A: "AutoInvest Account" is deducted first, followed by "Savings". Only these two accounts support deductions, and the assets of the two accounts cannot be stacked for the deduction.
+
+---
+
+Q: If the total assets in my two accounts are enough for investment, but each account alone is not enough, can I complete the investment?
+
+A: The assets of the two accounts cannot be stacked for the deduction. To complete the investment, you need to consolidate the assets in the two accounts for investment payment.
+
+---
+
+Q: What is the "AutoInvest Account"?
+
+A: The "AutoInvest Account" is a dedicated account for automatic investment.
+
+---
+
+Q: How can I confirm that the assets are exclusively used and will not be moved?
+
+A: The "AutoInvest Account" provides an access token to the holding account, which allows you to query the current holdings in real time through the Mixin Network browser. The assets of this account will not be misappropriated except for the automatic deduction by the "AutoInvesting" function.
+
+---
+
+Q: Does the "AutoInvest Account" have financial benefits?
+
+A: The "AutoInvest Account" is not a financial account and does not offer any financial benefits. For financial benefits, you can use "Savings" or other investment products.
