@@ -4,7 +4,7 @@ title: Auto Invest
 
 Q: What is "AutoInvesting"?
 
-A: To ensure that your investment plan can be automatically executed without manual intervention, ExinOne has introduced the "AutoInvest" function. Once activated, if the investment assets in your "AutoInvest Account" or "Savings" exceed the current investment amount, the investment will be made automatically, eliminating the need for manual processing.
+A: To ensure that your investment plan can be automatically executed without manual intervention, ExinOne has introduced the "AutoInvest" feature. Once activated, if the investment assets in your "AutoInvest Account" or "Savings" exceed the current investment amount, the investment will be made automatically, eliminating the need for manual processing.
 
 ---
 
@@ -34,7 +34,7 @@ A: The "AutoInvest Account" is a dedicated account for automatic investment.
 
 Q: How can I confirm that the assets are exclusively used and will not be moved?
 
-A: The "AutoInvest Account" provides an access token to the holding account, which allows you to query the current holdings in real time through the Mixin Network browser. The assets of this account will not be misappropriated except for the automatic deduction by the "AutoInvesting" function.
+A: The "AutoInvest Account" provides an access token to the holding account, which allows you to query the current holdings in real time through the Mixin Network browser. The assets of this account will not be misappropriated except for the automatic deduction by the "AutoInvesting" feature.
 
 ---
 

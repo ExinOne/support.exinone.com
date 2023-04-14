@@ -7,7 +7,7 @@
     "message": "主网!",
     "description": "The label for category Mainnet in sidebar docs"
   },
-  "sidebar.docs.category.Functions": {
+  "sidebar.docs.category.Features": {
     "message": "功能",
     "description": "The label for category haha in sidebar docs"
   },

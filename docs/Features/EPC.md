@@ -8,7 +8,7 @@ A:
 
 - EPC (ExinOne Point Coin) is a reward point on the ExinOne platform that can be used for Exin-related services.
 
-- The main use of EPC is to offset the transaction fees on ExinOne. 100 EPC can offset the transaction fee worth 1 USDT.
+- The primary use of EPC is to offset the transaction fees on ExinOne. 100 EPC can offset the transaction fee worth 1 USDT.
 
 ------
 

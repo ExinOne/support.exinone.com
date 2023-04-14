@@ -13,14 +13,14 @@ ExinOne is a "one-stop digital asset and financial services platform" that mainl
   - Spot Trading: Connect to exchanges for trading, with the option to choose market price or limit price (placing orders);
   - Auto Invest Plan: You can make single-coin/multi-coin portfolio through ExinOne;
   - In the future, ExinOne will offer more strategic trading features, so stay tuned.
-- Savings: ExinOne's "Savings" function provides wealth management services for some assets, currently supporting:
+- Savings: ExinOne's "Savings" feature provides wealth management services for some assets, currently supporting:
   - USDT, pUSD, XIN, ZEN, EOS
 - Loans: ExinOne offers collateralized loan services, allowing you to pledge your assets and borrow USDT.
 - Wallet: ExinOne integrates the functionality of the Mixin wallet, enabling you to query and operate your Mixin wallet assets within ExinOne.
 
 ## User Guide
 
-## Deposit
+### Deposit
 
 **Introduction to concepts** 
 
@@ -60,7 +60,7 @@ Do not use USDT-ERC20 or ETH addresses within Mixin for USDT-Polygon & USDT-BEP2
 
 For first-time deposits, try a small amount first. Once you confirm the deposit has arrived, proceed with larger amounts to avoid unnecessary losses due to incorrect addresses.
 
-#### Feature Introduction
+### Feature Introduction
 
 **Market** 
 
@@ -76,7 +76,7 @@ ExinOne aggregates Binance, OKX, Bybit, Gateio, BigONE, and MixSwap exchanges, a
 
 - Swap
 
-You can use the "Instant Swap" feature to exchange any coin for any other coin, and ExinOne will automatically choose the appropriate trading path for you. If the Instant Swap feature does not have the token you want to trade, please message the ExinOne bot, and we will evaluate and inform you if we can support it.
+You can use the "Swap" feature to exchange any coin for any other coin, and ExinOne will automatically choose the appropriate trading path for you. If the Instant Swap feature does not have the token you want to trade, please message the ExinOne bot, and we will evaluate and inform you if we can support it.
 
 - Spot Trading & Limit Orders
 
@@ -92,13 +92,13 @@ ExinOne offers collateralized borrowing services. Pledge assets in the trading a
 
 **Savings**
 
-ExinOne provides wealth management services for specific tokens.
+ExinOne provides wealth management services for specific tokens. 
 
-#### Function Module Introduction
+### Feature Module Introduction
 
 Trading Account: The trading account is an account provided by ExinOne for Mixin users to trade tokens from various exchanges within Mixin directly.
 
-Savings: This function offers token current wealth management services. USDT and pUSD deposited in Current Treasure can also be used for Auto investment plan payments.
+Savings: This feature offers token current wealth management services. USDT and pUSD deposited in Current Treasure can also be used for Auto investment plan payments.
 
 Delegated Account: The tokens you place as orders will be held in this account. Once the order is completed (including cancellation), your entrusted assets will be returned to your payment account.
 

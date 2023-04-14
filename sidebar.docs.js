@@ -3,14 +3,14 @@ module.exports = {
     "introduction",
     {
       type: 'category',
-      label: 'Functions',
+      label: 'Features',
       collapsed: false,
       items: [
-        'functions/TradingAccount',
-        'functions/Savings',
-        'functions/EPC',
-        'functions/One-Click-to-Light-Up-Icons',
-        'functions/AutoInvest'
+        'Features/TradingAccount',
+        'Features/Savings',
+        'Features/EPC',
+        'Features/One-Click-to-Light-Up-Icons',
+        'Features/AutoInvest'
       ],
     },    
     {

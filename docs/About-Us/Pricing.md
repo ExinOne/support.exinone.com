@@ -18,7 +18,7 @@ title: ExinOne Pricing Rules
         - The BOX → USDT transaction pair charges a 0.5% handling fee and does not support the EPC deduction fee, and the USDT → USDC transaction pair charges a 0.05% handling fee and supports the EPC deduction fee.
         - According to the above principles, the actual handling fee for this path is 0.5% and does not support the EPC deduction fee.
 - Token trading market order and limit order fees are the same. Both are 0.2%, you can use EPC to offset the fees.
-- The transaction of the Auto Invest Plan is completed through Convert, and the Auto Invest Plan function does not charge.
+- The transaction of the Auto Invest Plan is completed through Convert, and the Auto Invest Plan feature does not charge.
 
 ## EPC
 - EPC is the fee point card of ExinOne, which is used to offset the transaction fee on ExinOne.

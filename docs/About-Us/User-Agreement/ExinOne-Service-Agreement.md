@@ -70,7 +70,7 @@ All services of ExinOne will be used only to serve the users of the Mixin ecosys
 VII. Service Fees
 
 ExinOne reserves the right to impose service fees on users, and ExinOne reserves the right to adjust the price of service fees charged to users. Notifications of price adjustments will be posted on the announcement page of the website.
-VIII. Functions of Live Money
+VIII. features of Live Money
 
 8.1. Call Money is a coin value-added product with low risk and stable return, and can be deposited and withdrawn at any time. The service is provided by EXINONE LIMITED, and the ExinOne platform supervises and controls it.
 
