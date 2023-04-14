@@ -1,23 +1,14 @@
 #!/bin/sh
 
-rm -rf ./dist
-mkdir dist
+cd /data/exinone/support.exinone.com
 
-git pull
-
-cd developers
-yarn install && yarn build
-cd ..
-mv developers/dist dist/developers
-
-cd developers-docs
-yarn install && yarn build
-cd ..
-mv developers-docs/build dist/developers-docs
-
-SUM=`md5 -q dist/developers/index.html`
-#mv dist/developers/index.html dist/developers/index.$SUM.html
-
-cp app.one.yaml dist/app.yaml
-#sed -i ''  "s/index.html/index.$SUM.html/g" dist/app.yaml || exit
-cd dist && gcloud app deploy app.yaml -q
+changed=0
+git remote update && git status -uno | grep -q 'Your branch is behind' && changed=1
+if [ $changed = 1 ]; then
+    git checkout .
+    git pull
+    yarn build && sudo rm -rf /var/www/support.exinone.com/* && sudo mv -v build/* /var/www/support.exinone.com/ && sudo chown www-data:www-data -R /var/www/support.exinone.com/
+    echo "Updated successfully";
+else
+    echo "Up-to-date"
+fi
