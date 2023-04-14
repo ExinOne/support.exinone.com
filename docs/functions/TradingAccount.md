@@ -26,6 +26,8 @@ A: Tokens in the Trading Acct. are stored in Mixin, exchanges, and multi-signatu
 Q: What are fee points? 
 A: EPC is ExinOne's fee point card. By depositing EPC into the EPC account in the top left corner of ExinOne's avatar, users can deduct transaction fees on ExinOne. 100 EPC can offset a $1 transaction fee.
 
+See [EPC](./EPC.md)
+
 Q: Where are tokens that cannot be withdrawn to the Mixin wallet and can only be traded stored? 
 A: They are stored in exchanges for users to trade at any time and will not be used for other purposes.
 

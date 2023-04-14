@@ -1,22 +1,32 @@
 ---
 title: Savings
 ---
-Savings is ExinOne's signature digital currency value-added service, a product featuring low risk, stable returns, and the ability to deposit and withdraw as you go.
+Savings is a digital currency value-added service launched by ExinOne. It is a product with low risk, stable income and allows for flexible withdrawals.
 
-About the Savings product description.
+Regarding the uses of Savings for financial management:
 
-ExinOne will provide users with demand and term banking services in specific currencies. USDT coins will be used in the lending business of the platform, and the lending business is secured by the corresponding assets, so there is no need to worry about other risks such as coin theft. 
+- USDT is used for the platform's lending business, and each lending transaction has excess asset collateral, so there is no need to worry about insufficient collateral or other risks.
+- XIN is used for Mixin Network's node operation, and the node currency is collateralized to the main network, ensuring asset safety and reliability.
+- EOS is used for node voting, and the assets do not need to be moved. The corresponding node rewards are obtained only through voting, ensuring asset safety and reliability.
+  - [View the collateral](https://eosflare.io/account/eosatexinpay)
+- HT is used for exchange collateral and will not be consumed.
+- ZEN is used for participating in Horizen node collateral business.
+- pUSD is used for platform lending and maintaining liquidity.
 
-XIN coins will be used for the node business of Mixin Network, and the node coins will be pledged to the main network, so the assets are safe and secure. 
 
-EOS coins will be mainly used for node voting, assets do not need to be moved, only the corresponding node rewards are obtained through voting, assets are safe and reliable. 
 
-demand finance business account is demand storage, will not be locked, deposit and withdraw as you go.
-The demand finance account is fixed interest, and the platform may adjust the interest rate according to the fluctuation of the market, subject to the corresponding page display. 
+## Other Information
 
-The platform will publicize the financial management route. 
+- Savings is a demand deposit account and will not be locked up, allowing for flexible withdrawals.
+- The interest rate for the savings account is fixed, but may be adjusted based on market fluctuations. Please refer to the corresponding page for the latest information.
+- The savings account also supports automated regular investment plans, which can be set up for automatic deductions.
 
-Current account also supports automatic deduction of fixed investment and saving investment.
+If you have any further questions, please message the ExinOne bot directly.
 
-If you have any other questions, please contact us.
+
+
+
+
+
+
 

@@ -2,32 +2,40 @@
 title: EPC
 ---
 
-Dear Users.
+Q: What is EPC?
 
-EPC (ExinOne Point Coin), is a point on the ExinOne platform that can be used to offset the transaction fees incurred by users when trading with ExinOne.
+A:
 
-100 EPC is worth 1 USDT of transaction fees.
+- EPC (ExinOne Point Coin) is a reward point on the ExinOne platform that can be used for Exin-related services.
 
-EPC must be credited to the EPC account in order to be credited.
+- The main use of EPC is to offset the transaction fees on ExinOne. 100 EPC can offset the transaction fee worth 1 USDT.
 
-## I. How to get EPC?
+------
 
-1、Complete the tasks in the task center to get the EPC reward;
+Q: How can I obtain EPC?
 
-2、Transfer assets to your liquidity pool Account or Savings Account, you can enjoy EPC airdrop every day;
+A:
 
-3、Invite your friends to use ExinOne, you can get EPC rewards ;
+- Completing tasks in the task center can earn you EPC rewards.
 
-4、ExinOne does not provide EPC transactions, but can be transferred to your wallet to offset the fees of other Exin products.
+- Depositing assets into your trading account or savings account can generate asset points, and ExinOne will airdrop EPC based on your asset points every day.
 
-## II.Use of EPC
+- If you deposit a token that ranks in the top ten on the trading account, you will receive additional rewards.
 
-1、It can be used to offset the commission of trading in ExinOne;
+- Participating in ExinPool node collateral and staking XIN can earn you EPC rewards.
 
-2、ExinPool node exit fee;
+------
 
-ExinPool's node exit service fee is 0.2%, which can be deducted by using EPC as a priority (you need to pay the EPC in Mixin wallet).
+Q: How do I use EPC?
 
-Above, ExinOne has the final right to interpret the EPC rules, if you have any questions, please feel free to contact Mixin: 7000101276
+A:
 
-Thank you for your support of ExinOne!
+- You can store EPC in your EPC account, and it will automatically offset transaction fees.
+
+- If the number of EPCs required to pay for a transaction fee is not sufficient, the EPC will not be deducted.
+
+------
+
+**Special note**
+
+EPC is not intended for speculation and is only used for Exin-related services. The ways to obtain EPC are all giveaways, and the final interpretation right belongs to Exin.
