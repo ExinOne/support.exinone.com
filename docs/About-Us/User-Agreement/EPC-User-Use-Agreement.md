@@ -16,7 +16,7 @@ You are not authorized to use the Service unless you have read and accepted all 
 
 1.2 This agreement is subordinate to the user agreement of the platform. When you click the "Read and Agree" button, it means that you have entirely accepted all the terms and conditions, including the user agreement of the platform, this agreement, and all kinds of rules, statements, and instructions that have been issued or may be issued by the platform in the future. The content of this agreement also includes the relevant agreements and business rules about the service that may be released by the platform from time to time. Once the above-mentioned contents are officially released, they are an integral part of this agreement and you shall also comply with them. If the content is not agreed in this agreement, refer to the content of the user agreement.
 
-II. About the service content
+## II. About the service content
 
 2.1 The EPC feature service refers explicitly to the platform fee that is deducted from the user's EPC account by default when the user uses the trading feature of the ExinOne platform, and the EPC will not be deducted when the balance of the EPC account is insufficient.
 

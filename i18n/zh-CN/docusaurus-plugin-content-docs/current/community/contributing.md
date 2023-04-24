@@ -119,3 +119,4 @@ yarn run start --locale $LANG_CODE
 ## 加入我们的开发者群组
 
 参与 Mixin 开发，在 Mixin Messenger 搜索‘7000104112’，加入[开发者群](https://supergroup.mixin.fan/#/7000104112/home)。
+
