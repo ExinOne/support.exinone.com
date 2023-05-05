@@ -1,6 +1,7 @@
 module.exports = {
   docs: [
     "introduction",
+    "FAQs",
     {
       type: 'category',
       label: 'Features',

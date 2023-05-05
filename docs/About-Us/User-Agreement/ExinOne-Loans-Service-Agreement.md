@@ -64,7 +64,7 @@ Using the Service means that you have read and agreed to the following Terms of 
 
 2.2.2 When using the Service, you shall transfer certain kinds and several pledged assets to your Exin account as a pledge. When the order is confirmed, we will lend you certain kinds and a number of currencies, which shall be deemed as automatic completion of the loans service.
 
-2.2.3 Unless otherwise specified herein or in the Terms of Use, you may freely choose the duration for each use of the loans service, but the maximum duration shall not exceed [365] days. You understand and agree that the longer the loans duration is, the higher the interests and related fees payable hereunder may be.
+2.2.3 Unless otherwise specified herein or in the Terms of Use, you may freely choose the duration for each use of the loans service, but the maximum duration shall not exceed [3650] days. You understand and agree that the longer the loans duration is, the higher the interests and related fees payable hereunder may be.
 
 2.2.4 You agree that, unless otherwise agreed or exempted by us, you shall not withdraw any pledged assets from the pledge account before you return the loans and pay corresponding fruits and expenses. However, you may make additional transfers of pledged assets to the pledge account at your own discretion to reduce the risk of using the Service (such as the risk of being closed).
 

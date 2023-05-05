@@ -88,7 +88,7 @@ ExinOne supports creating your investment portfolio for periodic fixed investmen
 
 **Loans**
 
-ExinOne offers collateralized borrowing services. Pledge assets in the trading account to obtain a borrowing limit, and you can borrow funds. The borrowing period is 365 days, and you can repay anytime. Please avoid overdue payments, control the collateralization rate, and avoid liquidation risks.
+ExinOne offers collateralized borrowing services. Pledge assets in the trading account to obtain a borrowing limit, and you can borrow funds. The borrowing period is 3650 days, and you can repay anytime. Please avoid overdue payments, control the collateralization rate, and avoid liquidation risks.
 
 **Savings**
 
