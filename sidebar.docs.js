@@ -9,6 +9,7 @@ module.exports = {
       items: [
         'Features/TradingAccount',
         'Features/Savings',
+        'Features/Affiliate',
         'Features/EPC',
         'Features/One-Click-to-Light-Up-Icons',
         'Features/AutoInvest'
