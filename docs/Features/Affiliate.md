@@ -18,14 +18,12 @@ Developers can also obtain certain profits by accessing ExinOne's flash exchange
 - If the fee asset is EPC, the commission is paid in EPC.
 - If the fee asset is not EPC, the commission is paid in USDT.
 
-Commission Rate: Currently set at 10%, with plans to launch a tiered commission structure in the future. Stay tuned!
+Commission Rate: Currently set at 20%, with plans to launch a tiered commission structure in the future. Stay tuned!
 
 **Commission Applicability**
 
 - Commissions are supported for all trading features, such as instant exchange, limit orders, spot trading, and additional investments in fixed investments. The relevant parties need to make payment transactions within the commission-related pages. After completing the transaction and generating the transaction fee revenue, you will receive a commission.
 - Commissions will only be rewarded for transactions generated within the relevant card/link. No rewards will be given otherwise.
-
-
 
 
 

@@ -91,7 +91,7 @@ ExinOne 「首页」展示了 ExinOne 支持交易的相关代币的行情信息
 
 #### 交易
 
-ExinOne 聚合了 Binance、OKX、Bybit、Gateio、BigONE、MixSwap 等交易所，让您无需注册相关交易所，无需进行 KYC，即可在 ExinOne 上隐私，安全地交易对应交易所的代币。
+ExinOne 聚合了 Binance、OKX、Bybit、Gateio、BigONE、MixSwap 等交易所，让您无需注册相关交易所，无需进行 KYC，即可在 ExinOne 上隐私，安全地交易相应交易所的代币。
 
 ExinOne 提供三种交易模式，分别是闪兑，币币交易，挂单。
 
