@@ -21,7 +21,8 @@ module.exports = {
       collapsed: false,
       items: [
         'Instructions/DelayedRelease',
-        'Instructions/TradingModel'
+        'Instructions/TradingModel',
+        'Instructions/About-BOX-Trading'
       ],
     },        
     {
