@@ -14,7 +14,6 @@ Regarding the uses of Savings for financial management:
 - pUSD is used for platform lending and maintaining liquidity.
 
 
-
 ## Other Information
 
 - Savings is a demand deposit account and will not be locked up, allowing for flexible withdrawals.

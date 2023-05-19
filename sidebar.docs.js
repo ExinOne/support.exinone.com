@@ -17,6 +17,15 @@ module.exports = {
     },    
     {
       type: 'category',
+      label: 'Instructions',
+      collapsed: false,
+      items: [
+        'Instructions/DelayedRelease',
+        'Instructions/TradingModel'
+      ],
+    },        
+    {
+      type: 'category',
       label: 'AboutUs',
       collapsed: false,
       items: [

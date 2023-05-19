@@ -3,9 +3,9 @@
     "message": "下一个",
     "description": "The label for version current"
   },
-  "sidebar.docs.category.Mainnet": {
-    "message": "主网!",
-    "description": "The label for category Mainnet in sidebar docs"
+  "sidebar.docs.category.Instructions": {
+    "message": "介绍",
+    "description": "The label for category Instructions"
   },
   "sidebar.docs.category.Features": {
     "message": "功能",
