@@ -33,6 +33,10 @@ A: EPC is ExinOne's fee point card. By depositing EPC into the EPC account in th
 
 See [EPC](./EPC.md)
 
+Q: What is the difference between a Mixin wallet and a trading account?
+
+A: Mixin wallet is a decentralized wallet that needs to be managed by you using a 6-digit PIN, and a trading account is a centralized account managed by ExinOne on your behalf and designed to provide the appropriate services.
+
 Q: Where are tokens that cannot be withdrawn to the Mixin wallet and can only be traded stored? 
 
 A: They are stored in exchanges for users to trade at any time and will not be used for other purposes.
