@@ -49,20 +49,6 @@ A: Currently not supported, will be supported in the future. Please pay attentio
 
 
 
-## 关于定投
-
-Q：定投计划全部删除后，为什么还显示定投数据？
-
-A：定投数据会有一个小时的缓存，一个小时后数据就会更新了。
-
-
-
-Q：定投的任务奖励在哪领？
-
-A：在 ExinOne 首页的 「任务中心」领取
-
-
-
 ## About Auto Invest
 
 Q: Why is the Auto Invest data still displayed after all plans are deleted?
