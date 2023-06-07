@@ -38,13 +38,13 @@ ExinOne 是“一站式数字资产与金融服务平台”，主要为您提供
 
 ## 使用指引
 
-### 入金
+### 出入金
 
 **概念介绍**
 
 - USDT：是区块链里的稳定币，可以用以交易任何加密货币
 
-- 入金：获得 USDT
+- 入金：获得 USDT 或其它加密货币
 - 出金：将 USDT 等代币卖出为 CNY
 
 **入金的两种方式**
@@ -55,11 +55,13 @@ ExinOne 是“一站式数字资产与金融服务平台”，主要为您提供
 
 如果您是第一次接触加密货币，以前从来没有拥有过加密货币，可通过此方式入金。
 
-您需要使用第三方 [TIGA](https://www.tigaex.com/#/mine/inviteCode?code=K9MKEB)（@7000104206） 提供的服务进行入金， [TIGA](https://www.tigaex.com/#/mine/inviteCode?code=K9MKEB)（@7000104206）是一个去中心化的C2C（用户和用户之间）交易平台，通过多签方案保管交易资产，安全可靠。
+您需要使用第三方服务 [TIGA](https://www.tigaex.com/#/mine/inviteCode?code=K9MKEB)（@7000104206） 提供的服务进行入金， [TIGA](https://www.tigaex.com/#/mine/inviteCode?code=K9MKEB)（@7000104206）是一个去中心化的C2C（用户和用户之间）交易平台，通过多签方案保管交易资产，安全可靠。
 
-**特别说明**❗️：如果您使用的是「新生」App，由于它无法进行私聊，所以您无法通过「新生」App 使用 TIGA。
+**特别说明**❗️
 
-请参考 [教程](https://channel.mixinbots.com/dl) 下载 Mixin 使用 TIGA。
+- 如果您使用的是「新生」App，由于它无法进行私聊，所以您无法通过「新生」App 使用 TIGA。请参考 [教程](https://channel.mixinbots.com/dl) 下载 Mixin 使用 TIGA。
+
+- TIGA 是第三方服务，与 ExinOne 无关，如有与 TIGA 相关的产品问题请直接与相关客服联系。
 
 方式二：链上充值
 
@@ -74,6 +76,8 @@ ExinOne 是“一站式数字资产与金融服务平台”，主要为您提供
 ![image-20230413131509306](./images/image-20230413131509306.png)
 
 无论您持有任何版本的 USDT，都可以使用 ExinOne 的闪兑功能进行交易，但如果您想使用挂单、定投功能，请将您其它版本的代币通过 ExinOne 的闪兑功能兑换成 ERC20 版本 USDT，再进行使用。
+
+如果您想了解提币相关的信息，请 [查阅文档](https://quill.im/37296198/3f6b21ce-8b7b-4fa7-8a1e-80cb5ba1ba15)
 
 **出金**
 
