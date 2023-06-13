@@ -1,6 +1,5 @@
 ---
 title: FAQs
-
 ---
 
 
@@ -9,9 +8,11 @@ title: FAQs
 
 Q: What is the relationship between ExinOne and Mixin?
 
-A: You can compare Mixin Messenger to Telegram, ExinOne is a small application (BOT) inside it, similar BOTs are ExinPool, MixSwap, MixPay, etc. The Exin team is an early development team of Mixin ecosystem, running some products independently.
+A: You can compare Mixin Messenger to Telegram. ExinOne is a small application (BOT) inside it. Similar BOTs are ExinPool, MixSwap, MixPay, etc. The Exin team is an early development team of the Mixin ecosystem, running some products independently.
 
+Q: Is Mixin secure?
 
+A: Mixin Wallet is [fully open source](https://github.com/MixinNetwork) and currently manages over a billion dollars in assets on the Mixin Network and has never had any incidents to date. The above is some information. You need to make your own judgment as to whether it is safe or not.
 
 ## About Markets
 
@@ -23,7 +24,7 @@ A: It is taken from the quotes website coingecko.com.
 
 Q: Why are there coins in the ticker that cannot be traded?
 
-A: ExinOne will support more tokens trading, if you want to trade a certain token, you can contact us.
+A: ExinOne will support more tokens trading. If you want to trade a particular token, you can contact us.
 
 
 
@@ -31,15 +32,15 @@ A: ExinOne will support more tokens trading, if you want to trade a certain toke
 
 ## About Trades
 
-Q：What's the difference between Swap and spot?
+Q: What's the difference between Swap and Spot?
 
-A：Swap can use any coin to trade any coin, and support some coins that are not supported by coin trading. The coin page shows the trading pairs supported by the exchange, and supports pending orders.
+A: Swap can use any coin to trade any coin and support some coins that are not supported by coin trading. The coin page shows the trading pairs supported by the exchange and supports pending orders.
 
 
 
-Q：How many orders can I hang at most?
+Q: How many orders can I hang at most?
 
-A：At present, you can hang 50 orders, and the pending orders will be automatically cancelled if they are not completely filled for 90 days.
+A: Currently, you can hang 50 orders, and the pending orders will be automatically canceled if they are not entirely filled for 90 days.
 
 
 
@@ -57,9 +58,9 @@ A: The data will be cached for one hour, and the data will be updated after one 
 
 
 
-Q：Where can I get the task rewards of fixed investment?
+Q: Where can I get the task rewards of fixed investment?
 
-A: You can get it from "Task Center" on ExinOne home page.
+A: You can get it from "Task Center" on the ExinOne home page.
 
 
 
