@@ -1,7 +1,7 @@
 ---
 title: Savings
 ---
-Savings is a digital currency value-added service launched by ExinOne. It is a product with low risk, stable income and allows for flexible withdrawals.
+Savings is a digital currency value-added service launched by ExinOne. It is a product with low risk, stable income, and allows for flexible withdrawals.
 
 Regarding the uses of Savings for financial management:
 
@@ -10,7 +10,7 @@ Regarding the uses of Savings for financial management:
 - EOS is used for node voting, and the assets do not need to be moved. The corresponding node rewards are obtained only through voting, ensuring asset safety and reliability.
   - [View the collateral](https://eosflare.io/account/eosatexinpay)
 - HT is used for exchange collateral and will not be consumed.
-- ZEN is used for participating in Horizen node collateral business.
+- ZEN is used for participating in Horizon node collateral business.
 - pUSD is used for platform lending and maintaining liquidity.
 
 
@@ -21,7 +21,6 @@ Regarding the uses of Savings for financial management:
 - The savings account also supports automated regular investment plans, which can be set up for automatic deductions.
 
 If you have any further questions, please message the ExinOne bot directly.
-
 
 
 

@@ -10,9 +10,9 @@ Why is there a delay in releasing coins?
 
 As stated in [ExinOne's Trading model](. /TradingModel), when you purchase a token on ExinOne, ExinOne is simultaneously making the purchase for you on the relevant exchange, so the relevant assets are on the exchange and ExinOne needs to withdraw the relevant tokens from the exchange to Mixin before they can be transferred to you, but this takes time.
 
-ExinOne will reserve some assets in Mixin in response to your purchase, but if the underlying assets you purchased are bought by many people in a short period of time, ExinOne does not have time to replenish them in advance. The underlying assets in Mixin are released to the user, so it cannot release the coins in real-time. 
+ExinOne will reserve some assets in Mixin in response to your purchase, but if the underlying assets you purchased are bought by many people in a short period of time, ExinOne does not have time to replenish them in advance. The underlying assets in Mixin are released to the user, so it cannot release the coins in real time. 
 
-At this time the coins are in the exchange, so you need to wait for us to withdraw the coins from the exchange before they can be released to you.
+At this time, the coins are in the exchange, so you need to wait for us to withdraw the coins from the exchange before they can be released to you.
 
 This is the background of delayed coin release.
 

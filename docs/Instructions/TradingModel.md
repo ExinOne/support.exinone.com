@@ -2,10 +2,6 @@
 title: ExinOne Trading Model
 ---
 
-
-
-
-
 ExinOne is the trading tool you've come to know within Mixin, offering you the security, privacy and convenience of trading tokens that are live on all major exchanges.
 
 - Security: Tokens such as BTC, ETH, MOB, BOX, etc., are credited directly to your Mixin wallet upon transaction completion; ExinOne does not hold your assets in escrow.
@@ -175,7 +171,6 @@ Generally speaking before a serious incident (lightning) occurs on an exchange, 
 However, in order to maintain the stability of transactions, ExinOne cannot transfer all assets completely, so please be aware that the impact can be considered inevitable.
 
 In case of extreme situations, ExinOne will take appropriate countermeasures in a timely manner, but please keep yourself informed and, if necessary, sell the relevant assets to ensure the safety of your assets.
-
 
 
 

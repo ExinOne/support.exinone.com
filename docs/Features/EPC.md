@@ -38,4 +38,4 @@ A:
 
 **Special note**
 
-EPC is not intended for speculation and is only used for Exin-related services. The ways to obtain EPC are all giveaways, and the final interpretation right belongs to Exin.
+**EPC is not intended for speculation and is only used for Exin-related services. The ways to obtain EPC are all giveaways, and the final interpretation right belongs to Exin.**

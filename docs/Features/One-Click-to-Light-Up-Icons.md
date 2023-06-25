@@ -2,7 +2,7 @@
 title: One Click to Light Up Icons
 ---
 
-ExinOne, launched the [One-Click Icon Lighting] campaign with the following rules.
+ExinOne launched the [One-Click Icon Lighting] campaign with the following rules.
 
 - The campaign page will show all the coins with avatars supported by the Mixin wallet, users can directly click the corresponding icon to light up the corresponding coin icon in the wallet. The rest of the supported coins can be found on the Add Assets page and will not be shown in the wallet by default.
 

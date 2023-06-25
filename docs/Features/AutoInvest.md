@@ -20,7 +20,7 @@ A: "AutoInvest Account" is deducted first, followed by "Savings". Only these two
 
 ---
 
-Q: If the total assets in my two accounts are enough for investment, but each account alone is not enough, can I complete the investment?
+Q: Can I complete the investment if the total assets in my two accounts are enough for investment, but each account alone is not enough?
 
 A: The assets of the two accounts cannot be stacked for the deduction. To complete the investment, you need to consolidate the assets in the two accounts for investment payment.
 
