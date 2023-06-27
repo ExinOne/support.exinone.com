@@ -28,6 +28,10 @@ A: ExinOne will support more tokens trading. If you want to trade a particular t
 
 
 
+Q：How do I delete my account from ExinOne?
+
+A: ExinOne does not support deletion. Deleting Mixin is equivalent to logging out of ExinOne.
+
 
 
 ## About Trades

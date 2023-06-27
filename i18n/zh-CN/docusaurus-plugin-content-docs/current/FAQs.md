@@ -28,6 +28,18 @@ A：Mixin 钱包是 [完全开源](https://github.com/MixinNetwork) 的，目前
 
 
 
+## 关于 ExinOne
+
+Q：ExinOne 怎么注销账户？
+
+A：ExinOne 不支持注销，注销 Mixin 就相当于注销了 ExinOne。
+
+
+
+Q：我注册了 ExinOne，会被收费吗？
+
+A：查看、点击 ExinOne 不会收取您任何费用，ExinOne 可能会在您交易时收取一定的服务费，也可能不收取，请查看[定价规则](./User-Agreement/Pricing)
+
 ## 关于行情
 
 Q：行情页面的价格来源是哪里？
