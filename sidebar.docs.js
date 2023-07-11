@@ -22,7 +22,8 @@ module.exports = {
       items: [
         'Instructions/DelayedRelease',
         'Instructions/TradingModel',
-        'Instructions/About-BOX-Trading'
+        'Instructions/About-BOX-Trading',
+        'Instructions/TradingDepth'
       ],
     },        
     {
