@@ -3,8 +3,6 @@ title: 交易账户
 sidebar_position: 6
 ---
 
-
-
 交易账户是 ExinOne 为 Mixin 用户提供的交易交易所上线的代币的账户。
 
 ExinOne 现已集成 Binance、OKX、Bybit、Gate.io、BigONE、Huobi 等多家交易所，使用 ExinOne 即可交易相关交易所的代币，您无需 KYC，无需分别注册各交易所账户，无需充提币等操作，省去了繁琐的步骤及费用。
