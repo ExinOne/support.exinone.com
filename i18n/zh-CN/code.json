@@ -127,10 +127,6 @@
     "message": "latest version",
     "description": "The label used for the latest version suggestion link label"
   },
-  "theme.common.editThisPage": {
-    "message": "编辑本页面",
-    "description": "The link label to edit the current page"
-  },
   "theme.common.headingLinkTitle": {
     "message": "永久链接",
     "description": "Title for link to heading"

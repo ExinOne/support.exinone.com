@@ -62,7 +62,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Community',
+          title: 'ExinOne',
           items: [
             {
               label: 'Developers',
@@ -102,14 +102,9 @@ module.exports = {
           sidebarPath: require.resolve('./sidebar.docs.js'),
           path: 'docs',
           routeBasePath: '/docs',
-          // Please change this to your repo.
-          editUrl: 'https://github.com/ExinOne/support.exinone.com/tree/main/developers-docs',
+           // Please change this to your repo.
+           //editUrl: 'https://github.com/ExinOne/support.exinone.com/tree/main/developers-docs',
           editLocalizedFiles: true,
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl: 'https://github.com/ExinOne/support.exinone.com/tree/main/developers-docs/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.scss'),
