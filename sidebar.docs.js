@@ -26,7 +26,6 @@ module.exports = {
         'Features/Affiliate',
         'Features/EPC',
         'Features/Loans',
-        'Features/One-Click-to-Light-Up-Icons',
         'Features/AutoInvest',
         'Features/Addassets',
         'Features/SmallAmountWithdraw',
